@@ -6,7 +6,7 @@ Frontend built with React for Gold Products Listing Application.
 
 ## 🔗 Live Demo
 
-[Click to view the live demo]([GitHub linki](https://gold-products-frontend.vercel.app/))
+[Click to view the live demo](https://gold-products-frontend.vercel.app/)
 
 ---
 
