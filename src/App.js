@@ -10,7 +10,8 @@ function App() {
   const [selectedColors, setSelectedColors] = useState({});
 
   useEffect(() => {
-    axios.get('http://localhost:3001/products')
+    axios.get('https://gold-products-api.onrender.com/products')
+
       .then(response => {
         setProducts(response.data);
 
