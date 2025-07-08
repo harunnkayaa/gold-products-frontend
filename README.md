@@ -4,19 +4,19 @@ Frontend built with React for Gold Products Listing Application.
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 [Click to view the live demo](https://gold-products-frontend.vercel.app/)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Product List](screenshots/product-list.png)
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetches live gold prices from backend
 - Calculates dynamic product prices
